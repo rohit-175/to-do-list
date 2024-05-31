@@ -27,16 +27,21 @@ git clone https://github.com/yourusername/todo-list-app.git
 ```
 
 2. Navigate to the project directory:
+```bash
 cd todo-list-app
-
+```
 4. Install the dependencies:
+```bash
 npm install
-
+```
 
 ## Running the Application
 To start the development server, run:
+```bash
 npm run dev
-
-##Building for Production
+```
+## Building for Production
 To build the application for production, run:
+```bash
 npm run build
+```
